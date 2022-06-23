@@ -24,3 +24,13 @@ dir
 ```sh
 ls
 ```
+ ## How to leave VIM
+ ### Without save
+```sh
+Esc
+:q!
+```
+### With save
+```sh
+Esc
+:wq
