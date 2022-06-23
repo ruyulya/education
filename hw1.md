@@ -35,12 +35,10 @@ To get ***Bold Italic*** use '*** and ***'
 
 To get ~~Strikethrough~~ use '~~ and ~~'
 
-To get unorded list 
-* element 1
-* element 2
-use '*'
+To get unorded list use '*'
+* element 1;
+* element 2.
 
-To get numered list
-1. Element 1
-2. Element 2
-use '1, 2, 3,'
+To get numered list use '1, 2, 3,'
+1. Element 1;
+2. Element 2.
