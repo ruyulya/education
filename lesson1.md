@@ -10,9 +10,17 @@
 ```sh
 cd C:\folder_name
 ```
-
-### MacOs/Linux
+### MacOS/Linux
 ```sh
 cd/folder_name
 ```
 
+## Listing directory
+### Windows
+```sh
+dir
+```
+### MacOS/Linux
+```sh
+ls
+```
