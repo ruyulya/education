@@ -24,6 +24,17 @@ dir
 ```sh
 ls
 ```
+
+## Delete file
+### Windows
+```sh
+del file_name
+```
+### MacOS/Linux
+```sh
+rm file_name
+```
+
  ## How to leave VIM
  ### Without save
 ```sh
