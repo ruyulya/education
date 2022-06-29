@@ -2,10 +2,13 @@
 
 ## Highlighting text 
 
-New line 
-
 **Bold**
-*Italic*
+
+*Italics*
+
+***Bold Italics***
+
+~~Strikethrough~~
 
 ## Citation
 > First level
