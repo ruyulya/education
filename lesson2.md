@@ -4,6 +4,8 @@
 
 **Bold**
 
+*Italic*
+
 ## Citation
 > First level
 >> Second level
