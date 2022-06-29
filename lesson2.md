@@ -15,3 +15,5 @@ New line
 ## Add pictire
 This is orange
 ![Orange](orange.jpg)
+This is apple
+![Apple](apple.jpg)
