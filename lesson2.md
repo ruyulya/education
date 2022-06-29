@@ -3,6 +3,7 @@
 ## Highlighting text 
 
 **Bold**
+*Italic*
 
 *Italic*
 
