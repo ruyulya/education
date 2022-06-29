@@ -2,6 +2,8 @@
 
 ## Highlighting text 
 
+New line 
+
 **Bold**
 *Italic*
 
