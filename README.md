@@ -1,5 +1,5 @@
 # My first repo
 
-Add new text by Safari
+Add new text in browser. Fix error.
 
 Add text in computer
